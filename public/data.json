@@ -1,0 +1,38 @@
+[
+  {
+    "id":"1",
+    "name":"Amith kumar",
+    "salary":"10000",
+    "image":"https://i.ibb.co/tK964dK/18.jpg"
+  },
+  {
+    "id":"2",
+    "name":"Amith kumar",
+    "salary":"10000",
+    "image":"https://i.ibb.co/LxLr7fN/16.jpg"
+  },
+  {
+    "id":"3",
+    "name":"Amith kumar",
+    "salary":"10000",
+    "image":"https://i.ibb.co/FYNJqqh/13.jpg"
+  },
+  {
+    "id":"4",
+    "name":"Amith kumar",
+    "salary":"10000",
+    "image":"https://i.ibb.co/8MzyYHh/10.jpg"
+  },
+  {
+    "id":"5",
+    "name":"Amith kumar",
+    "salary":"10000",
+    "image":"https://i.ibb.co/6cQxZ6M/9.jpg"
+  },
+  {
+    "id":"6",
+    "name":"Amith kumar",
+    "salary":"10000",
+    "image":"https://i.ibb.co/ncwWMtJ/1.jpg"
+  }
+]
